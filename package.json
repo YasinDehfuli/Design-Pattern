@@ -1,0 +1,27 @@
+{
+  "name": "design-pattern",
+  "version": "1.0.0",
+  "description": "TypeScript Design Pattern",
+  "keywords": [
+    "TypeScript",
+    "DesignPattern"
+  ],
+  "homepage": "https://github.com/YasinDehfuli/Design-Pattern#readme",
+  "bugs": {
+    "url": "https://github.com/YasinDehfuli/Design-Pattern/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YasinDehfuli/Design-Pattern.git"
+  },
+  "license": "GPL-3.0-or-later",
+  "author": "YasinDehfuli",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
+}
